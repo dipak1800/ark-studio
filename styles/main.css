@@ -69,10 +69,10 @@ height:720px;
 	background-color:cyan;
 	border:3px solid blue;
 }
- .services-wrapper h3{
+ .serviceswrapper h3{
 	text-align:center;
 }
-.services-wrapper{
+.serviceswrapper{
 	width:100%;
 	margin-bottom:80px;
 
