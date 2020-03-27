@@ -147,6 +147,8 @@ margin-top:40px;
 	background-color:rgba(211,211,211,0.3);
 	margin-top:50px;
 }
+
+
 .brandlogo {
 	display:flex;
 	justify-content:center;
@@ -177,6 +179,7 @@ margin-top:40px;
 footer{
 	background:rgba(0,0,0,0.9);
 	text-align:center;
+
 }
 .icons{
 	display:flex;
@@ -228,4 +231,4 @@ footer{
 .footer_widget a:hover{
 	background-color:cyan;
 	color:pink;
-}
+	}
